@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-Junior Digital Technology & Software Developer | React • Django • Node.js • WordPress
+Junior Digital Technology & Software Developer | React • Django • WordPress
 </h3>
 
 <p align="center">
