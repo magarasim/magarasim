@@ -73,6 +73,9 @@ A Django-based academic management system that supports CRUD operations and stru
   <a href="https://github.com/magarasim/Student-Management-System">
     <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://sajilo-yatraa.netlify.app/">
+    <img src="https://img.shields.io/badge/Live_Website-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
