@@ -44,7 +44,7 @@ My focus is clean architecture, scalable systems, and delivering production-read
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,django,nodejs,supabase,wordpress,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,django,wordpress,git,github,vscode" />
 </p>
 
 ---
